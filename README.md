@@ -10,5 +10,6 @@ Estou em busca de uma oportunidade na área de TI, com foco no desenvolvimento *
 
 ## 🤝 Vamos nos conectar?
 
-- [LinkedIn](https://www.linkedin.com/in/rosanarlima/)
-- [E-mail](rosanaribeirogp@gmail.com)
+- 📄 [Acesse meu Currículo em PDF](./Curriculo-Rosana-Lima.pdf)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rosanarlima/)
+- ✉️ [E-mail](mailto:rosanaribeirogp@gmail.com)
