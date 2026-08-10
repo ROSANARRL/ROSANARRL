@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou a Rosana Lima! 👋
 
-<!--
-**ROSANARRL/ROSANARRL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou em busca de uma oportunidade na área de TI, com foco no desenvolvimento **Back-end** e aprofundamento no ecossistema .NET. Possuo sólida bagagem em análise de projetos e processos, o que me proporciona visão sistêmica e facilidade na resolução de problemas complexos.
 
-Here are some ideas to get you started:
+## ✨ Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 **Foco atual:** C#, .NET, ASP.NET Core, SQL Server e arquitetura de APIs.
+- 📚 **Aprendizado contínuo:** Programas da WoMakersCode e documentação técnica.
+- 🛠️ **Habilidades:** Git/GitHub, C#, testes unitários, gestão de processos e documentação técnica.
+
+## 🤝 Vamos nos conectar?
+
+- [LinkedIn](https://www.linkedin.com/in/rosanarlima/)
+- [E-mail](rosanaribeirogp@gmail.com)
