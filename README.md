@@ -12,6 +12,6 @@ Estou em busca de uma oportunidade na área de TI, aberta a posições como **De
 
 ## 🤝 Vamos nos conectar?
 
-- 📄 [Acesse meu Currículo em PDF](./Curriculo-Rosana-Lima.pdf)
-- 💼 [LinkedIn](https://www.linkedin.com/in/rosanarlima/)
-- ✉️ [E-mail](mailto:rosanaribeirogp@gmail.com)
+* 📄 [Acesse meu Currículo em PDF](./Currículo_Rosana_Lima.pdf)
+* 💼 [LinkedIn](https://www.linkedin.com/in/rosanarlima/)
+* ✉️ [E-mail](mailto:rosanaribeirogp@gmail.com)
