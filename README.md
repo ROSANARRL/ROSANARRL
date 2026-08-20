@@ -1,14 +1,18 @@
 # Olá, eu sou a Rosana Lima! 👋
 
-Estou em busca de uma oportunidade na área de TI, aberta a posições como **Desenvolvedora .NET / C# (Júnior / Iniciante)**. Possuo sólida bagagem em gestão de projetos e processos, o que me proporciona visão sistêmica, facilidade na resolução de problemas complexos e forte alinhamento com regras de negócio.
+Com 14 anos de trajetória e 11 anos de experiência consolidada em Gestão de Projetos, Governança (PMO) e Eficiência Operacional, atuo como ponte entre áreas de negócio e time operacional e TI.
 
-## ✨ Sobre mim
+**Projetos & Processos:** Especialista em mapeamento end-to-end (BPMN 2.0/Bizagi), Lean Six Sigma, ciclo PDCA e governança em setores como RH, TI, Energia e Jurídico.
 
-* 🎯 **Foco atual:** C#, .NET, ASP.NET Core, SQL Server e arquitetura de APIs.
-* 🎓 **Formação em Cursos de TI:**
-  * **Desenvolvimento Back-end com .NET** | *WoMakersCode* (Cursando | 360h – 23 semanas | Previsão: Dez/2026)
-    * *Programa:* Métodos Ágeis, Git/GitHub, C# Fundamentos e POO, Banco de Dados e Persistência, Angular, APIs com .NET, Qualidade e Arquitetura, Cloud/CI-CD/Deploy e IA aplicada ao desenvolvimento.
-* 🛠 **Habilidades:** Git/GitHub, C#, testes unitários, gestão de processos e documentação técnica.
+**Interface com TI:** Liderança em transformação digital, migração para nuvem, reestruturação de processos e automação de fluxos operacionais.
+
+**Formação:** MBA em Gestão de Projetos e Especialização em Compliance (PUC-MG).
+
+**Diferencial Técnico (Em constante atualização):** Estudo prático de C# / .NET, SQL Server e automação para aprofundar o entendimento de arquitetura de software, garantindo alinhamento técnico preciso com times de desenvolvimento.
+
+🎯 **Foco profissional:** Atuação em Gestão de Projetos, Governança de TI e Processos Corporativos.
+
+🛠 **Habilidades:** Git/GitHub, C#, testes unitários, gestão de processos e documentação técnica.
 
 ## 🤝 Vamos nos conectar?
 
