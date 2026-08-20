@@ -17,4 +17,4 @@ Estou em busca de uma oportunidade na área de TI, aberta a posições como **De
 * ✉️ [E-mail](mailto:rosanaribeirogp@gmail.com)
 
 ### 🚀 Projetos & Estudos
-* [meus-estudos-backend](https://github.com/ROSANARL/meus-estudos-backend) - Repositório com exercícios de C# e .NET modularizados, utilizando controle de versão com Git/GitHub, gerenciamento por Issues e Pull Requests.
+* [meus-estudos-backend](https://github.com/ROSANARRL/meus-estudos-backend) - Repositório com exercícios de C# e .NET modularizados, utilizando controle de versão com Git/GitHub, gerenciamento por Issues e Pull Requests.
